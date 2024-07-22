@@ -1,0 +1,23 @@
+{
+  "name": "module-10_challenge_svg-generator",
+  "version": "1.0.0",
+  "description": "Node.js CLI Tool to generate SVG files of simple shapes (e.g., logo)",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeanderingBrook/10_Challenge_SVG-Generator.git"
+  },
+  "author": "Chris Milazzo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MeanderingBrook/10_Challenge_SVG-Generator/issues"
+  },
+  "homepage": "https://github.com/MeanderingBrook/10_Challenge_SVG-Generator#readme"
+}
