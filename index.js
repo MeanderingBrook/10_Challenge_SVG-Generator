@@ -84,7 +84,7 @@ function writeToFile(logoPath, logoSpecs) {
       console.log(err);
     } else {
       console.log(
-        "index Line 85: Logo Specifications successfully written to file."
+        "index Line 87: Logo Specifications successfully written to file."
       );
     }
   });
@@ -101,11 +101,11 @@ async function init() {
 
   // Requests User Input to Logo Parameters
   const userInput = await inquirer.prompt(logoParameters);
-  console.log("index Line 101: ", userInput);
+  console.log("index Line 104: ", userInput);
 
   // Generates SVG Logo Code (Specifications) based upon User Responses to Logo Parameters
   const logoSpecs = shapes(userInput);
-  console.log("index Line 105: ", logoSpecs);
+  // console.log("index Line 108: ", logoSpecs);
 
   // Writes generated SVG Logo Code to SVG File
   writeToFile(logoPath, logoSpecs);
