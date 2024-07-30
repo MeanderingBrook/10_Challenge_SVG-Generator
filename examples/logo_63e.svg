@@ -6,7 +6,7 @@
         r="100"
         stroke="transparent"
         stroke-width="0"
-        fill="green"
+        fill="lightblue"
       />
       
       <text 
@@ -14,7 +14,7 @@
         y="110.00000000000001" 
         font-family="Verdana" 
         font-size="45" 
-        fill="white">
+        fill="darkgreen">
         ABC
       </text>
       
