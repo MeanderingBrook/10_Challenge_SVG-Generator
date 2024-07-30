@@ -120,10 +120,12 @@ Not Applicable: Application is a Node.js Command Line Interface (CLI)-based appl
 
 ## Application Screenshots
 
-![Weather Dashboard: Empty Dashboard Screenshot](./assets/images/Weather-Dashboard_Empty-Dashboard_Screenshot.png?raw=true "Weather Dashboard: Empty Dashboard")
+![SVG Generator: CLI Questionnaire - Screenshot 01](./assets/images/SVG-Generator_CLI-Questionnaire_Screenshot-01.png?raw=true "SVG Generator: CLI Questionnaire")
 
-![Weather Dashboard: Populated Dashboard Screenshot 01 - San Francisco](./assets/images/Weather-Dashboard_Populated-Dashboard_Screenshot-01.png?raw=true "Weather Dashboard: Populated Dashboard  - San Francisco")
+![SVG Generator: CLI Questionnaire with Validation Warning - Screenshot 02](./assets/images/SVG-Generator_CLI-Questionnaire-Validation-Warning_Screenshot-02.png?raw=true "SVG Generator: CLI Questionnaire with Validation Warning")
 
-![Weather Dashboard: Populated Dashboard Screenshot 02 - Des Moines](./assets/images/Weather-Dashboard_Populated-Dashboard_Screenshot-02.png?raw=true "Weather Dashboard: Populated Dashboard  - Des Moines")
+![SVG Generator: CLI Questionnaire with Process Completion Notice - Screenshot 03](./assets/images/SVG-Generator_CLI-Questionnaire-Process-Completion-Notice_Screenshot-03.png?raw=true "SVG Generator: CLI Questionnaire with Process Completion Notice")
 
-![Weather Dashboard: Populated Dashboard Screenshot 03 - Miami](./assets/images/Weather-Dashboard_Populated-Dashboard_Screenshot-03.png "Weather Dashboard: Populated Dashboard  - Miami")
+![SVG Generator: CLI Questionnaire with Process Completion Notice (Limited Log Output) - Screenshot 04](./assets/images/SVG-Generator_CLI-Questionnaire-Process-Completion-Notice-Limited-Log-Output_Screenshot-04.png?raw=true "SVG Generator: CLI Questionnaire with Process Completion Notice (Limited Log Output)")
+
+![SVG Generator: Generated Logo Output - Screenshot 05](./assets/images/SVG-Generator_Generated-Logo-Output_Screenshot-05.png?raw-true "SVG Generator: Generated Logo Output")
