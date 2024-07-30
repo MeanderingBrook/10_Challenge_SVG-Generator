@@ -6,16 +6,16 @@
         r="100"
         stroke="transparent"
         stroke-width="0"
-        fill="darkblue"
+        fill="lightblue"
       />
       
       <text 
-        x="65" 
-        y="100" 
+        x="55.00000000000001" 
+        y="110.00000000000001" 
         font-family="Verdana" 
         font-size="45" 
-        fill="lightblue">
-        ABC
+        fill="darkblue">
+        LLL
       </text>
       
     </svg>
