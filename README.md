@@ -103,9 +103,11 @@ N / A
 
 ## Tests
 
-API parameter testing and data evaluation, see test.js ('archive' Folder)
+Jest-mediated automated testing, using npm ('npm run test'), see shapes.test.js ('tests' folder)
 
-`console.log` output of specification data specific to User requirements; see index.js and shapes.js ('lib' Folder).
+Return value and generated content testing and data evaluation, see archive.js ('archive' Folder)
+
+`console.log` output of specification data specific to User requirements; see index.js, shapes.js, inquirer.js, logo.js ('lib' Folder).
 
 
 ## GitHub Repository Location (HTTPS)
